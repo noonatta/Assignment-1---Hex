@@ -1,5 +1,5 @@
 # Assignment-1---Hex
-Game of Hex that can be played between 2 players vs AI AI
+Game of Hex that can be played between 2 players or AI vs Player
 Each AI starts at random spot and tries to find the shortest path towards the other side before the player can. 
 
 
